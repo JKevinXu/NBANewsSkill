@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Hello World"
+  short_description: "Generate a minimal friendly agent greeting."
+  default_prompt: "Use $agent-hello-world to produce a friendly hello-world response from an agent."
