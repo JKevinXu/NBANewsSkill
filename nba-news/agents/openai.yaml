@@ -1,0 +1,4 @@
+interface:
+  display_name: "NBA News"
+  short_description: "Track and summarize current NBA news."
+  default_prompt: "Use $nba-news to summarize today's NBA news with dated sources."
