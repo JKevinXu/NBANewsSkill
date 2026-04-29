@@ -1,0 +1,4 @@
+interface:
+  display_name: "NBA News"
+  short_description: "Track, verify, and summarize current NBA news."
+  default_prompt: "Use $nba-news to summarize today's NBA news with dated sources. Run the official scoreboard helper for game context, verify current claims with live sources, and separate official news from reports or rumors."
